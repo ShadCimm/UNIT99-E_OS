@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Pip-OS</h1>
-  <h2>UNIT 99-E</h2>
+  <h1>UNIT 99-E OS</h1>
   <p><strong>Vault Maintenance Unit</strong></p>
 </div>
 
