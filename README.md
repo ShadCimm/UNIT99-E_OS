@@ -3,7 +3,7 @@
   <p><strong>Vault Maintenance Unit</strong></p>
 </div>
 
-Welcome to **Pip-OS for Unit 99-E**, a custom, Fallout-inspired Android car launcher explicitly designed for tablets and aftermarket Android head units.
+Welcome to **Unit 99-E OS**, a custom, Fallout-inspired Android car launcher explicitly designed for tablets and aftermarket Android head units.
 
 This launcher was designed and developed as the digital heart of the real-world [**Vault-Tec Hyundai Accent (Vault Maintenance Unit 99-E)**](https://www.reddit.com/r/Fallout/comments/1tp90gw/finally_took_my_custom_vaulttec_hyundai_accent/) project.
 
