@@ -7,7 +7,7 @@ Welcome to **Unit 99-E OS**, a custom, Fallout-inspired Android car launcher exp
 
 This launcher was designed and developed as the digital heart of the real-world [**Vault-Tec Hyundai Accent (Vault Maintenance Unit 99-E)**](https://www.reddit.com/r/Fallout/comments/1tp90gw/finally_took_my_custom_vaulttec_hyundai_accent/) project.
 
-Optimized to run smoothly on low-end and budget dashboard hardware, Pip-OS brings the wasteland aesthetic directly to your vehicle without sacrificing system performance.
+Optimized to run smoothly on low-end and budget dashboard hardware, this launcher brings the wasteland aesthetic directly to your vehicle without sacrificing system performance.
 
 This repository is intended for APK releases and user documentation only.
 
