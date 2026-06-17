@@ -11,11 +11,6 @@ Optimized to run smoothly on low-end and budget dashboard hardware, this launche
 
 This repository is intended for APK releases and user documentation only.
 
-
-## Gallery & Themes
-
-This release repo intentionally keeps the README text-first and does not embed screenshots.
-
 ## Quick Start
 
 1. Download the latest APK from this repository's release page, or place release APKs in the `releases/` folder if you mirror them in git.
