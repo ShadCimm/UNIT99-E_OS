@@ -13,7 +13,7 @@ Pip-OS is distributed as an APK, not through the Play Store. You need:
 
 ## Install the APK
 
-1. Download the latest `pipOS_*.apk` from the release page.
+1. Download the latest `UNIT99-E_OS_*.apk` from the release page.
 2. Copy it to the Android device using USB, SD card, browser download, cloud storage, or file transfer.
 3. Open the APK with the device's file manager.
 4. If Android blocks the install, choose `Settings` and enable `Install unknown apps` for that file manager or browser.
