@@ -5,7 +5,7 @@
 
 Pip-OS is distributed as an APK, not through the Play Store. You need:
 
-- An Android 10 or newer device.
+- An Android 8 or newer device.
 - A landscape-capable head unit or tablet.
 - Enough free storage for the APK, radio files, and any offline maps you add.
 - Optional: GPS enabled for speed/map features.
